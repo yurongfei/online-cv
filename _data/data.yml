@@ -162,12 +162,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset1:
-      - name: Java & SSM & Springboot
+      - name: Java
         level: 90%
-      - name: Python & Groovy & Shell & Perl
+      - name: SSM & Springboot
+        level: 90%
+      - name: Python
         level: 70%
-      - name: C#
+      - name: Groovy
+        level: 70%
+      - name: Shell
+        level: 70%
+      - name: Perl
         level: 50%
+      - name: C#
+        level: 60%
       - name: VBA
         level: 90%
 
@@ -176,7 +184,7 @@ skills:
         level: 75%
       - name: Javascript & jQuery
         level: 50%
-      - name: vue & vuex & vue-router & axios 
+      - name: VUE
         level: 50%
       - name: Bootstrap
         level: 80%
@@ -214,6 +222,6 @@ skills:
         level: 90%
       - name: Allure
         level: 90%
-      - name: Cucumber (Gherkin)
+      - name: Cucumber(Gherkin)
         level: 90%
 
