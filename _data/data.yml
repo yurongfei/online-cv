@@ -55,6 +55,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: BSc in Computer Science
       university: China Agriculture University
@@ -67,6 +68,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Senior Software Engineer / Project Manager
       time: 2011 - Present
@@ -132,27 +134,38 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Certifications
+    intro: |
+      
+    papers:
+      - title: ENGLISH
+        conference: CET-6, 2001
+
+      - title: JAPANESE
+        conference: LEVEL-6, 2010
+
+      - title: PMP
+        conference: 2015
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
-        level: 98%
-
       - name: Python & Django
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
       - name: Angular
         level: 98%
 
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    
