@@ -119,23 +119,33 @@ projects:
     assignments:
       - title: Velocity
         link: 
-        tagline: "help startups promote, market and sell their products."
+        role: "PM"
+        duties: "Project management, Technical investigate & support, "
+        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
 
       - title: DevStudio
         link: 
-        tagline: "help web developers/designers market their services."
+        role: "PM"
+        duties: "Project management, Technical investigate & support, "
+        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
 
       - title: Tempo
         link: 
-        tagline: "Ahelp startups promote their products or services"
+        role: "PM"
+        duties: "Project management, Technical investigate & support, "
+        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
 
       - title: Atom
         link: 
-        tagline: "startups/developers to market their mobile apps."
+        role: "PM"
+        duties: "Project management, Technical investigate & support, "
+        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
 
       - title: Delta
         link: 
-        tagline: "help app developers promote their mobile apps"
+        role: "PM"
+        duties: "Project management, Technical investigate & support, "
+        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
 
 publications:
     title: Certifications
