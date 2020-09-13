@@ -27,7 +27,7 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
       - idiom: English
@@ -118,40 +118,40 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: 
+        tagline: "help startups promote, market and sell their products."
 
       - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: 
+        tagline: "help web developers/designers market their services."
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: 
+        tagline: "Ahelp startups promote their products or services"
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: 
+        tagline: "startups/developers to market their mobile apps."
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: 
+        tagline: "help app developers promote their mobile apps"
 
 publications:
     title: Certifications
     intro: |
       
     papers:
-      - title: ENGLISH (CET-6, 2001)
+      - title: English  (CET6, 2001)
 
-      - title: JAPANESE (LEVEL-6, 2010)
+      - title: Japanese (L1, 2010)
 
-      - title: PMP (2015)
+      - title: PMP      (2015)
 
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
+    toolset1:
       - name: Java & SSM & Springboot
         level: 90%
       - name: Python & Groovy & Shell & Perl
@@ -161,7 +161,7 @@ skills:
       - name: VBA
         level: 90%
 
-
+    toolset2:
       - name: HTML & CSS
         level: 75%
       - name: Javascript & jQuery
@@ -175,6 +175,17 @@ skills:
       - name: Flex & ActionScript
         level: 80%
 
+    toolset3:
+      - name: Oracle
+        level: 50%
+      - name: DB2
+        level: 50%
+      - name: Postgre
+        level: 50%
+      - name: MySql
+        level: 50%
+        
+    toolset4:
       - name: GIT & SVN
         level: 90%
       - name: Maven & Ant
@@ -183,7 +194,10 @@ skills:
         level: 70%
       - name: Docker
         level: 70%
+      - name: Jboss drool
+        level: 90%
 
+    toolset5:
       - name: Pytest
         level: 90%
       - name: Selenium
@@ -192,8 +206,4 @@ skills:
         level: 90%
       - name: Cucumber (Gherkin)
         level: 90%
-      
-      - name: Jboss drool
-        level: 90%
-
 

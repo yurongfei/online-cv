@@ -21,18 +21,21 @@
 
       <span class="project-title">
         {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
-        {{ project.title }}
+          {{ project.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <div class="project-tagline">{{ project.tagline }}</div>
-      - <div class="project-tagline">{{ project.tagline }}</div>
-      - <div class="project-tagline">{{ project.tagline }}</div>
+      {% if project.role %}
+        <div class="project-tagline">Role   : {{ project.role }}</div>
       {% endif %}
-
+      {% if project.duties %}
+        <div class="project-tagline">Duties : {{ project.duties }}</div>
+      {% endif %}
+      {% if project.skills %}
+        <div class="project-tagline">Skills : {{ project.skills }}</div>
+      {% endif %}
     </div><!--//item-->
   {% endfor %}
 
