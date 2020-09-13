@@ -62,28 +62,44 @@ education:
 
 experiences:
     - role: Senior Software Engineer / Project Manager
-      time: 2011 - Present
+      time: 2011/06 - Present
       company: Hewlett Packard Enterprise (HPE)
       details: |
-        Describe your role here.
-          - Bullet point
-          - Bullet point
+        # Describe your role here.
+        #   - Bullet point
+        #   - Bullet point
 
     - role: Senior Software Engineer
-      time: 2008 - 2011
-      company: New Concept co.,LTD. Japan
+      time: 2008/07 - 2011/03
+      company: New Concept Co., Ltd. Japan
       details: |
-        Describe your role here.
-          - Bullet point
-          - Bullet point
+        # Describe your role here.
+        #   - Bullet point
+        #   - Bullet point
 
     - role: Software Developer
-      time: 2006 - 2008
+      time: 2006/07 - 2008/06
       company: IBM China GDC
       details: |
-        Describe your role here.
-          - Bullet point
-          - Bullet point
+        # Describe your role here.
+        #   - Bullet point
+        #   - Bullet point
+
+    - role: Software Developer
+      time: 2004/04 - 2006/06
+      company: SuoEn Software Development Co., Ltd. ShangHai
+      details: |
+        # Describe your role here.
+        #   - Bullet point
+        #   - Bullet point
+
+    - role: Software Developer
+      time: 2002/07 - 2004/03
+      company: KeBao Software Development Co., Ltd. ShangHai
+      details: |
+        # Describe your role here.
+        #   - Bullet point
+        #   - Bullet point
 
 projects:
     title: Projects
@@ -202,4 +218,8 @@ skills:
         level: 90%
       - name: cucumber(gherkin)
         level: 90%
+      - name: postman
+        level: 80%
+      - name: jmeter
+        level: 80%
 
