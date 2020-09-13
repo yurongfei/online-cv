@@ -49,23 +49,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Summarise your career here.
 
 education:
     - degree: BSc in Computer Science
       university: China Agriculture University
       time: 1998 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your role here.
           - Bullet point
           - Bullet point
 
@@ -74,15 +65,7 @@ experiences:
       time: 2011 - Present
       company: Hewlett Packard Enterprise (HPE)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here.
           - Bullet point
           - Bullet point
 
@@ -90,138 +73,133 @@ experiences:
       time: 2008 - 2011
       company: New Concept co.,LTD. Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here.
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Software Developer
+      time: 2006 - 2008
       company: IBM China GDC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here.
           - Bullet point
           - Bullet point
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: NEXAS (NEXt generation link network mAnagement System)
         link: 
+        duration: 2015/12-2016/09
         role: "PM"
-        duties: "Project management, Technical investigate & support, "
-        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
+        duties: "Project management, Technical investigate & support, Source review"
+        skills: "java, flex, spring, jms, rmi, jboss, oracle"
 
-      - title: DevStudio
+      - title: iSAS (Intelligent Service Activation System) 
         link: 
+        duration: 2015/6-2015/11
         role: "PM"
-        duties: "Project management, Technical investigate & support, "
-        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
+        duties: "project management, technical investigate & support, Source review"
+        skills: "java, jsp, jquery, ajax, hpsa, hao, vba, oracle"
 
-      - title: Tempo
+      - title: FTA
         link: 
+        duration: 2014/11-2015/05
         role: "PM"
-        duties: "Project management, Technical investigate & support, "
-        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
+        duties: "project management, technical investigate & support, Source review"
+        skills: "java, hpsa, android, flex, jboss, oracle"
 
-      - title: Atom
+      - title: BCD
         link: 
+        duration: 2014/05-2014/10
         role: "PM"
-        duties: "Project management, Technical investigate & support, "
-        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
+        duties: "project management, technical investigate & support, Source review"
+        skills: "java, python, ocmp, sip/rtp, opensipphone"
 
-      - title: Delta
+      - title: NMS
         link: 
+        duration: 2012/11-2014/04
         role: "PM"
-        duties: "Project management, Technical investigate & support, "
-        skills: "JAVA, FLEX, SPRING, JMS, RMI, JBOSS, ORACLE"
+        duties: "project management, technical investigate & support, Source review"
+        skills: "java, perl, shell, uca, temip, oracle, tomcat, axis2"
 
 publications:
     title: Certifications
     intro: |
       
     papers:
-      - title: "English  (CET6, 2001)"
+      - title: "English (CET6, 2001)"
 
       - title: "Japanese (L1, 2010)"
 
-      - title: "PMP      (2015)"
+      - title: "PMP (2015)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset1:
-      - name: Java
+      - name: java
         level: 90%
-      - name: SSM & Springboot
+      - name: ssm & springboot
         level: 90%
-      - name: Python
+      - name: python
         level: 70%
-      - name: Groovy
+      - name: groovy
         level: 70%
-      - name: Shell
+      - name: shell
         level: 70%
-      - name: Perl
+      - name: perl
         level: 50%
-      - name: C#
+      - name: c#
         level: 60%
-      - name: VBA
+      - name: vba
         level: 90%
 
     toolset2:
-      - name: HTML & CSS
+      - name: html & css
         level: 75%
-      - name: Javascript & jQuery
+      - name: javascript & jquery
         level: 50%
-      - name: VUE
+      - name: vue
         level: 50%
-      - name: Bootstrap
+      - name: bootstrap
         level: 80%
-      - name: JSP
+      - name: jsp
         level: 80%
-      - name: Flex & ActionScript
+      - name: flex & actionscript
         level: 80%
 
     toolset3:
-      - name: Oracle
+      - name: oracle
         level: 50%
-      - name: DB2
+      - name: db2
         level: 50%
-      - name: Postgre
+      - name: postgre
         level: 50%
-      - name: MySql
+      - name: mysql
         level: 50%
         
     toolset4:
-      - name: GIT & SVN
+      - name: git & svn
         level: 90%
-      - name: Maven & Ant
+      - name: maven & ant
         level: 90%
-      - name: Jenkins
+      - name: jenkins
         level: 70%
-      - name: Docker
+      - name: docker
         level: 70%
-      - name: Jboss drool
+      - name: jboss drool
         level: 90%
 
     toolset5:
-      - name: Pytest
+      - name: pytest
         level: 90%
-      - name: Selenium
+      - name: selenium
         level: 90%
-      - name: Allure
+      - name: allure
         level: 90%
-      - name: Cucumber(Gherkin)
+      - name: cucumber(gherkin)
         level: 90%
 
