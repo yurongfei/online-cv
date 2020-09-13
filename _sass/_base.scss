@@ -200,10 +200,10 @@ p {
 
     .project-title {
         font-size: 16px;
-        font-weight: 400;
+        font-weight: 500;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	    color: $theme-color;
     }
     .projects-section {
         .intro {
