@@ -139,33 +139,58 @@ publications:
     intro: |
       
     papers:
-      - title: ENGLISH
-        conference: CET-6, 2001
+      - title: ENGLISH (CET-6, 2001)
 
-      - title: JAPANESE
-        conference: LEVEL-6, 2010
+      - title: JAPANESE (LEVEL-6, 2010)
 
-      - title: PMP
-        conference: 2015
+      - title: PMP (2015)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java & SSM & Springboot
+        level: 90%
+      - name: Python & Groovy & Shell & Perl
+        level: 70%
+      - name: C#
+        level: 50%
+      - name: VBA
+        level: 90%
 
+
+      - name: HTML & CSS
+        level: 75%
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
+      - name: vue & vuex & vue-router & axios 
+        level: 50%
+      - name: Bootstrap
+        level: 80%
+      - name: JSP
+        level: 80%
+      - name: Flex & ActionScript
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: GIT & SVN
+        level: 90%
+      - name: Maven & Ant
+        level: 90%
+      - name: Jenkins
+        level: 70%
+      - name: Docker
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Pytest
+        level: 90%
+      - name: Selenium
+        level: 90%
+      - name: Allure
+        level: 90%
+      - name: Cucumber (Gherkin)
+        level: 90%
+      
+      - name: Jboss drool
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
