@@ -61,7 +61,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Senior Software Engineer / Project Manager
+    - role: Project Manager / Senior Software Engineer
       time: 2011/06 - Present
       company: Hewlett Packard Enterprise (HPE)
       details: |
@@ -71,7 +71,7 @@ experiences:
       company: New Concept Co., Ltd. Japan
       details: |
 
-    - role: Software Developer
+    - role: Senior Software Developer
       time: 2006/07 - 2008/06
       company: IBM China GDC
       details: |
@@ -83,7 +83,7 @@ experiences:
 
     - role: Software Developer
       time: 2002/07 - 2004/03
-      company: KeBao Software Development Co., Ltd. ShangHai
+      company: KeBao Software Development Co., Ltd. BeiJing
       details: |
 
 
@@ -92,6 +92,67 @@ projects:
     intro: >
       
     assignments:
+
+      - title: vNMS
+        link: 
+        duration: 20/00-20/00
+        role: ""
+        duties: ""
+        skills: "java, python, hpsd, uoc"
+
+      - title: IceWall
+        link: 
+        duration: 20/00-20/00
+        role: "PG"
+        duties: "technical investigate, coding, test"
+        skills: "python, pytest, selenium, allure"
+
+      - title: NEXAS-PH10
+        link: 
+        duration: 20/00-20/00
+        role: "PM"
+        duties: "project management, technical investigate & support, source review"
+        skills: "java, flex, spring, jms, rmi, jboss, oracle"
+
+      - title: DAISY-PH3
+        link: 
+        duration: 20/00-20/00
+        role: "PM"
+        duties: "project management, technical investigate & support, source review"
+        skills: "java, struts, springmvc, jbpm, mybatis, corba"
+
+      - title: MMGA
+        link: 
+        duration: 20/00-20/00
+        role: ""
+        duties: ""
+        skills: "java, socket, springboot, springbatch, uoc, shell"
+
+      - title: COSMO
+        link: 
+        duration: 20/00-20/00
+        role: ""
+        duties: ""
+        skills: "java, socket, springboot, springbatch, uoc, shell"
+
+
+
+      - title: NGAIA
+        link: 
+        duration: 20/00-20/00
+        role: ""
+        duties: ""
+        skills: "java, spring, mybatis, shell, ant, jenkins"
+
+
+
+      - title: ICE
+        link: 
+        duration: 2017/06-2017/09
+        role: ""
+        duties: ""
+        skills: "springboot, mybatis, jboos drools, restful api, axis2"
+
       - title: NEXAS (NEXt generation link network mAnagement System)
         link: 
         duration: 2015/12-2016/09
@@ -126,6 +187,112 @@ projects:
         role: "PM"
         duties: "project management, technical investigate & support, Source review"
         skills: "java, perl, shell, uca, temip, oracle, tomcat, axis2"
+
+      - title: DAISY(PH2)
+        link: 
+        duration: 2012/04-2012/10
+        role: "PL"
+        duties: "coding, test, source review, technical investigate & support"
+        skills: "java, applet, weblogic, tuxedo, oracle"
+
+      - title: DAISY(PH1) 
+        link: 
+        duration: 2011/07-2012/03
+        role: "PL"
+        duties: "coding, test, source review, technical investigate & support"
+        skills: "java, bpm, eai, camel, json, junit, jmock, jmstools, struts, ibatis, jboss, oracle"
+
+      - title: Weather forecast and disaster prevention information system
+        link: 
+        duration: 2010/01-2011/03
+        role: "PG"
+        duties: "coding, test"
+        skills: "html, javascript, jquery, css, perl, shell"
+
+      - title: Data input support system
+        link: 
+        duration: 2009/04-2009/12
+        role: "PG"
+        duties: "design, coding, test, source review"
+        skills: "c#, sqlserver"
+
+      - title: Home care welfare management system
+        link: 
+        duration: 2008/07-2009/03
+        role: "PG"
+        duties: "design, coding, test, source review"
+        skills: "vba, perl, postgres, ms access"
+
+      - title: MUTB
+        link: 
+        duration: 2007/12-2008/06
+        role: "PL"
+        duties: "coding, test, source review, technical investigate & support"
+        skills: "wacs(struts), java, jsp, javascript, websphere, db2"
+
+      - title: KOMATSU
+        link: 
+        duration: 2006/07-2007/11
+        role: "PL"
+        duties: "coding, test, source review, technical investigate & support"
+        skills: "wacs(struts), java, jsp, javascript, websphere, db2"
+
+      - title: NJC-Integrated business system
+        link: 
+        duration: 2006/04-2006/06
+        role: "PL"
+        duties: "coding, test, review, support"
+        skills: "vb6.0, oracle"
+
+      - title: NJC-Hotel management system
+        link: 
+        duration: 2005/09-2006/03
+        role: "PL"
+        duties: "coding, test, review, support"
+        skills: "c#, microsoft visual studio.net, oracle"
+
+      - title: TOSS
+        link: 
+        duration: 2005/05-2005/08
+        role: "PL"
+        duties: "coding, test, review, support"
+        skills: "struts, java, jsp, javascript, vb, oracle"
+
+      - title: ASP-Sales management system
+        link: 
+        duration: 2004/12-2005/04
+        role: "PG"
+        duties: "coding, test"
+        skills: "struts, java, jsp, javascript, eclipse, tomcat, oracle"
+
+      - title: NA28-Accounting system
+        link: 
+        duration: 2004/05-2004/11
+        role: "PG"
+        duties: "coding, test"
+        skills: "java, jsp, javascript, jbuilder10, jrun4, oracle"
+
+      - title: Tianjin steel processing center production management system
+        link: 
+        duration: 2003/11-2004/03
+        role: "PG"
+        duties: "coding, test"
+        skills: "team developer 3.0, vb, erwin, oracle"
+
+      - title: Shiseido customs management system
+        link: 
+        duration: 2003/07-2003/10
+        role: "PG"
+        duties: "coding, test"
+        skills: "vb6.0, sqlserver"
+
+      - title: NEC-Global bank system
+        link: 
+        duration: 2002/07-2003/06
+        role: "PG"
+        duties: "coding, test"
+        skills: "pro*c, basetool, oracle"
+
 
 publications:
     title: Certifications
@@ -178,7 +345,7 @@ skills:
         level: 50%
       - name: db2
         level: 50%
-      - name: postgre
+      - name: postgres
         level: 50%
       - name: mysql
         level: 50%
