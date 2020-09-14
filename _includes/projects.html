@@ -28,13 +28,13 @@
       </span>
 
       {% if project.duration %}
-      <div class="project-tagline"><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;{{ project.duration }}</div>
+      <div class="project-tagline"> - {{ project.duration }}</div>
       {% endif %}
       {% if project.role %}
-        <div class="project-tagline"><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;{{ project.role }}</div>
+        <div class="project-tagline"> - {{ project.role }}</div>
       {% endif %}
       {% if project.duties %}
-        <div class="project-tagline"><i class="fa fa-angle-right" aria-hidden="true"></i>&nbsp;&nbsp;{{ project.duties }}</div>
+        <div class="project-tagline"> - {{ project.duties }}</div>
       {% endif %}
       {% if project.skills %}
         <div class="project-tagline"> - {{ project.skills }}</div>

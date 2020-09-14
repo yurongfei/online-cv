@@ -95,65 +95,82 @@ projects:
 
       - title: vNMS
         link: 
-        duration: 20/00-20/00
-        role: ""
-        duties: ""
-        skills: "java, python, hpsd, uoc"
+        duration: 2020/05-NOW
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, coding, source review, test"
+        skills: "java, python, springboot, hpsd, uoc, docker"
 
       - title: IceWall
         link: 
-        duration: 20/00-20/00
+        duration: 2020/03-2020/04
         role: "PG"
         duties: "technical investigate, coding, test"
         skills: "python, pytest, selenium, allure"
 
       - title: NEXAS-PH10
         link: 
-        duration: 20/00-20/00
+        duration: 2019/06-2020/02
         role: "PM"
         duties: "project management, technical investigate & support, source review"
         skills: "java, flex, spring, jms, rmi, jboss, oracle"
 
       - title: DAISY-PH3
         link: 
-        duration: 20/00-20/00
+        duration: 2019/01-20/05
         role: "PM"
         duties: "project management, technical investigate & support, source review"
         skills: "java, struts, springmvc, jbpm, mybatis, corba"
 
       - title: MMGA
         link: 
-        duration: 20/00-20/00
-        role: ""
-        duties: ""
-        skills: "java, socket, springboot, springbatch, uoc, shell"
+        duration: 2018/10-2018/12
+        role: "PL"
+        duties: "project management assistant, technical investigate, coding, test"
+        skills: "java, groovy, shell, uoc"
 
       - title: COSMO
         link: 
-        duration: 20/00-20/00
-        role: ""
-        duties: ""
-        skills: "java, socket, springboot, springbatch, uoc, shell"
-
-
+        duration: 2018/04-2018/09
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, coding, test"
+        skills: "java, socket, springboot, springbatch, springdata jpa, uoc, shell, h2db, mysql"
 
       - title: NGAIA
         link: 
-        duration: 20/00-20/00
-        role: ""
-        duties: ""
+        duration: 2018/01-2018/03
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, source review"
         skills: "java, spring, mybatis, shell, ant, jenkins"
 
-
+      - title: FOSS
+        link: 
+        duration: 2017/09-2017/12
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, source review"
+        skills: "springboot, mybatis, jboos drools, restful api, axis2"
 
       - title: ICE
         link: 
-        duration: 2017/06-2017/09
-        role: ""
-        duties: ""
+        duration: 2017/06-2017/08
+        role: "SA"
+        duties: "technical investigate & support, coding, test source review"
         skills: "springboot, mybatis, jboos drools, restful api, axis2"
 
-      - title: NEXAS (NEXt generation link network mAnagement System)
+      - title: FOX
+        link: 
+        duration: 2017/01-2017/05
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, source review"
+        skills: "java, spring, mybatis, shell, activiti, maven, jenkins"
+
+      - title: AIO
+        link: 
+        duration: 2016/10-2016/12
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, coding, test source review"
+        skills: "java, spring, mybatis, hpsa, shell"
+
+      - title: NEXAS-PH8 (NEXt generation link network mAnagement System)
         link: 
         duration: 2015/12-2016/09
         role: "PM"
@@ -177,8 +194,8 @@ projects:
       - title: BCD
         link: 
         duration: 2014/05-2014/10
-        role: "PM"
-        duties: "project management, technical investigate & support, Source review"
+        role: "PL"
+        duties: "project management assistant, technical investigate & support, Source review"
         skills: "java, python, ocmp, sip/rtp, opensipphone"
 
       - title: NMS
@@ -192,14 +209,14 @@ projects:
         link: 
         duration: 2012/04-2012/10
         role: "PL"
-        duties: "coding, test, source review, technical investigate & support"
+        duties: "project management assistant, coding, test, source review, technical investigate & support"
         skills: "java, applet, weblogic, tuxedo, oracle"
 
       - title: DAISY(PH1) 
         link: 
         duration: 2011/07-2012/03
         role: "PL"
-        duties: "coding, test, source review, technical investigate & support"
+        duties: "project management assistant, coding, test, source review, technical investigate & support"
         skills: "java, bpm, eai, camel, json, junit, jmock, jmstools, struts, ibatis, jboss, oracle"
 
       - title: Weather forecast and disaster prevention information system
